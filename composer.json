@@ -1,0 +1,22 @@
+{
+  "name": "wang/tools",
+  "description": "公用代码仓库",
+  "type": "packge",
+  "keywords": [
+    "公用代码",
+    "公用代码仓库"
+  ],
+  "homepage": "http://www.baidu.com/",
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "wang\\": "src/wang/"
+    }
+  },
+  "authors": [
+    {
+      "name": "独孤傲雪",
+      "email": "wzh@n1ct.com"
+    }
+  ]
+}
