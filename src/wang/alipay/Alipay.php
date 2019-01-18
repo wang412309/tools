@@ -1,6 +1,6 @@
 <?php
 
-namespace wang\alipay;
+namespace ktwang\alipay;
 /**
  * Created by PhpStorm.
  * User: a

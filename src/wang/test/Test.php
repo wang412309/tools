@@ -1,6 +1,6 @@
 <?php
 
-namespace wang\test;
+namespace ktwang\test;
 /**
  * Created by PhpStorm.
  * User: a
